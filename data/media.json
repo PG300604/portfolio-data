@@ -1,0 +1,33 @@
+{
+  "profiles": [
+    {
+      "id": "photography",
+      "label": "Photography",
+      "instagram": "https://instagram.com/your_photo_handle"
+    },
+    {
+      "id": "fitness",
+      "label": "Fitness",
+      "instagram": "https://instagram.com/your_fitness_handle"
+    },
+    {
+      "id": "personal",
+      "label": "Personal",
+      "instagram": "https://instagram.com/your_personal_handle"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "categoryId": "photography",
+      "url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=400&auto=format&fit=crop",
+      "caption": "Camera Gear"
+    },
+    {
+      "id": "2",
+      "categoryId": "fitness",
+      "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=400&auto=format&fit=crop",
+      "caption": "Morning Run"
+    }
+  ]
+}
