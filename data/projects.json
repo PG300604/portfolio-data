@@ -1,0 +1,13 @@
+[
+  {
+    "id": "skillshare",
+    "title": "SkillShare",
+    "description": "A Tinder-style full-stack platform...",
+    "stack": ["Java", "Spring Boot", "React", "Docker", "PostgreSQL"],
+    "liveUrl": "https://skillshare-app-vercel-xv9i.vercel.app",
+    "githubUrl": "https://github.com/PG300604/skillshare-app-vercel",
+    "imageUrl": "https://raw.githubusercontent.com/PG300604/portfolio-data/main/assets/images/skillshare.png",
+    "featured": true,
+    "visible": true
+  }
+]
