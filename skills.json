@@ -1,7 +1,0 @@
-[
-  { "id": "spring-boot", "name": "Spring Boot", "category": "backend" },
-  { "id": "java", "name": "Java 17", "category": "backend" },
-  { "id": "react", "name": "React 19", "category": "frontend" },
-  { "id": "docker", "name": "Docker", "category": "devops" },
-  { "id": "kotlin", "name": "Kotlin", "category": "mobile" }
-]
