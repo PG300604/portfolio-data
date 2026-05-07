@@ -7,5 +7,5 @@
   "timeline": true,
   "contact": true,
   "media": true,
-  "blogs": false
+  "blogs": true
 }
