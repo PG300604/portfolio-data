@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome to my new Blogs section!",
+    "date": "2026-05-07",
+    "content": "This is my very first blog post on my new portfolio website. I'll be posting updates about events and projects here.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=600&auto=format&fit=crop",
+    "link": "https://github.com"
+  }
+]
