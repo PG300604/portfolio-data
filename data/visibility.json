@@ -6,5 +6,5 @@
   "certifications": true,
   "timeline": true,
   "contact": true,
-  "media": true
+  "media": false
 }
