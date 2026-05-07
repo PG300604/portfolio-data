@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "year": "May 2026",
+    "title": "Software Engineering Job Simulation",
+    "org": "JPMorgan Chase & Co. / Forage",
+    "desc": "Completed practical task modules in Agile Methodologies, Git, React, and Python.",
+    "active": true
+  },
+  {
+    "id": "2",
+    "year": "2023 - 2027",
+    "title": "B.Tech in Computer Science and Business Systems",
+    "org": "Asansol Engineering College",
+    "desc": "SGPA: 8.88. Focused on Full Stack Development, DSA, and System Design.",
+    "active": false
+  },
+  {
+    "id": "3",
+    "year": "2022",
+    "title": "Higher Secondary (12th)",
+    "org": "DAV Public School, CCL, Giridih",
+    "desc": "Science stream (PCM).",
+    "active": false
+  }
+]
