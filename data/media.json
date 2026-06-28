@@ -1,31 +1,31 @@
 {
   "profiles": [
     {
-      "id": "photography",
+      "id": "createtodayremembertommorow9",
       "label": "Photography",
-      "instagram": "https://instagram.com/your_photo_handle"
+      "instagram": "https://www.instagram.com/createtodayremembertommorow9?igsh=MWNuaTFhNHJoNm10aw=="
     },
     {
-      "id": "fitness",
+      "id": "priyanshlifts30",
       "label": "Fitness",
-      "instagram": "https://instagram.com/your_fitness_handle"
+      "instagram": "https://www.instagram.com/priyanshlifts30?igsh=MXF4bnl4OXBkM3Vyag=="
     },
     {
-      "id": "personal",
+      "id": "priyanshu30ghosh",
       "label": "Personal",
-      "instagram": "https://instagram.com/your_personal_handle"
+      "instagram": "https://www.instagram.com/priyanshu30ghosh?igsh=bjlncW00eWRlcmM1"
     }
   ],
   "items": [
     {
       "id": "1",
-      "categoryId": "photography",
+      "categoryId": "createtodayremembertommorow9",
       "url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=400&auto=format&fit=crop",
       "caption": "Camera Gear"
     },
     {
       "id": "2",
-      "categoryId": "fitness",
+      "categoryId": "priyanshlifts30",
       "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=400&auto=format&fit=crop",
       "caption": "Morning Run"
     }
