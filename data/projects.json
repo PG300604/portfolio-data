@@ -1,5 +1,23 @@
 [
   {
+    "id": "project-1782629397524",
+    "title": "ZeroHour — AI Productivity Companion",
+    "description": "🚨 ZeroHour — AI-powered last-minute productivity companion | Built for Hackathon By CodingNinjas × Google (Vibe2Ship)",
+    "longDescription": "When you're about to miss a deadline, you don't need a reminder — you need a plan.\n\nZeroHour is a full-stack multi-agent AI system that actively plans, prioritizes, schedules, and nudges users before deadlines are missed. The hero feature, Panic Mode, lets users describe a crisis in natural language and receive a complete AI-generated action plan pushed directly to Google Calendar.\n\n🤖 4-Agent AI Pipeline:\n• Planner Agent — Gemini 2.5 Flash decomposes goals into time-boxed subtasks\n• Prioritizer Agent — Ranks by urgency × impact (CRITICAL/HIGH/MEDIUM/LOW)\n• Scheduler Agent — Creates real Google Calendar events via Calendar API v3\n• Nudge Agent — Spring @Scheduled cron sends proactive email + in-app alerts at 24h, 6h, 1h\n\n🛠 Tech Stack:\nBackend: Java 17 + Spring Boot 3.x | Spring Security OAuth2 | AES-256 encryption\nFrontend: React 18 + Vite + Tailwind CSS | Framer Motion | Server-Sent Events (SSE)\nAI: Gemini 2.5 Flash (Google AI Studio)\nData: Firebase Firestore | Google OAuth 2.0\nInfra: Docker (multi-stage) | Firebase Hosting | Google Cloud Run\n\n🔗 Google Technologies: Gemini 2.5 Flash · AI Studio · OAuth 2.0 · Calendar API v3 · Gmail API · Firebase Firestore · Cloud Run (7 total)\n\n✅ Features: Multi-turn conversational Panic Mode · Live agent thinking panel (SSE) · Real-time task dashboard · Proactive nudge system · Google Calendar auto-scheduling · Notification center · Settings with preference persistence\n\nLive: zerohour-a84d3.web.app | GitHub: github.com/PG300604/ZeroHour",
+    "stack": [
+      "React",
+      "Tailwind",
+      "Java Spring Boot",
+      "Generative AI",
+      "Google Cloud"
+    ],
+    "liveUrl": "https://zerohour-a84d3.web.app/",
+    "githubUrl": "https://github.com/PG300604/ZeroHour",
+    "imageUrl": "https://raw.githubusercontent.com/PG300604/portfolio-data/main/uploads/Screenshot_1782629663698.png",
+    "featured": true,
+    "visible": true
+  },
+  {
     "id": "skillshare",
     "title": "SkillShare",
     "description": "A Tinder-style full-stack platform...",
