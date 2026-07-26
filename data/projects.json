@@ -31,7 +31,8 @@
     "githubUrl": "https://github.com/PG300604/ZeroHour",
     "imageUrl": "https://raw.githubusercontent.com/PG300604/portfolio-data/main/uploads/Screenshot_1782629663698.png",
     "featured": true,
-    "visible": true
+    "visible": true,
+    "image": "https://raw.githubusercontent.com/PG300604/portfolio-data/main/uploads/Screenshot_1782629663698.png"
   },
   {
     "id": "skillshare",
