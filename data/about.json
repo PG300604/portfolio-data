@@ -1,5 +1,5 @@
 {
-  "bio": "Full Stack Java Developer...",
+  "bio": "Hey, I'm Priyanshu. I'm a final year CS student from Jharkhand who got obsessed with backend engineering and never really looked back. I love the part of building software where complexity compounds — where one design decision ripples into everything else and you have to think three steps ahead. That's the part most people find frustrating. I find it fun.\n\nMy stack is Java and Spring Boot on the backend, React and Next.js on the frontend, and increasingly — AI. I've built everything from a Tinder-style skill matching app with a custom geolocation algorithm, to a multi-agent AI crisis planner that I shipped end-to-end in 24 hours at a Google hackathon, to a hospital triage platform using ML severity scoring and graph-based hospital routing. Each project taught me something the previous one couldn't.\n\nOutside of code, I'm into cricket, photography, and the occasional spiritual reset. I'm currently in my final year at Asansol Engineering College and actively looking for an SDE internship where the work is real and the problems are worth solving.",
   "sgpa": "8.83",
   "college": "Asansol Engineering College",
   "year": "Final year · 2027",
@@ -9,6 +9,6 @@
   "resumeUrl": "https://raw.githubusercontent.com/PG300604/portfolio-data/main/assets/resume.pdf",
   "degree": "Computer Science And Business Systems",
   "location": "Giridih, Jharkhand",
-  "projectsCount": "4",
+  "projectsCount": "5",
   "heroRoles": "Full Stack Developer, Open To SDE Internships, Java Spring-Boot Expert"
 }
