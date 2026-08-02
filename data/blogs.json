@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Building TriageNet — When Algorithms Meet Healthcare",
-    "date": "0006-08-02",
+    "date": "2026-08-02",
     "content": "My most complex project yet just hit a major milestone. TriageNet is an \nAI-powered hospital triage and resource optimization system I'm building \nas my final year project at AEC — and it's unlike anything I've built before.\n\nThe idea: connect 4 regional hospitals in a weighted graph network, then \nuse algorithms to automatically route patients to the right facility in \nreal time. Not just the nearest hospital — the one with the right beds, \nthe right equipment, and the right specialist available. All three \nconditions have to match before any assignment happens.\n\nUnder the hood: a Logistic Regression ML model scores patient severity \nfrom 0–100 using clinical vitals (SpO₂, heart rate, blood pressure, \ntemperature, respiratory rate, age). Dijkstra's algorithm finds the \nshortest-path referral route. The Hungarian algorithm handles optimal \nbed assignment. And if SpO₂ drops below 90% with HR above 110 bpm, the \nsystem fires a sepsis early warning automatically.\n\nPhase 1 and 2 are done — all 12 operational dashboard pages are live, \nthe ML engine is running, and the Spring Boot backend with JWT auth and \nDocker Compose is scaffolded. Now comes the hardest part: wiring the \nbackend algorithms to the frontend in real time.\n\nThis one's going to the final year presentation. Building it in public.",
     "image": "https://raw.githubusercontent.com/PG300604/portfolio-data/main/uploads/Screenshot_1785681957186.png",
     "link": "https://github.com/PG300604/TriageNet.git"
