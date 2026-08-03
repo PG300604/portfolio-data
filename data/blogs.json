@@ -1,5 +1,13 @@
 [
   {
+    "id": "1785739506946",
+    "title": "Progress On TriageNet",
+    "date": "2026-08-03",
+    "content": "Phase 3 of TriageNet is officially complete! 🚀\n\nAfter laying the foundation in Phase 1 & 2, today was all about bringing the Java core backend engine to life and building real-world clinical safety logic into the system.\n\nHere’s what got built in Phase 3:\n\n🧠 Java Algorithmic Core:\nPorted our ML Severity Scorer into Java Spring Boot (complete with explainable risk factor breakdowns and automatic sepsis alerts), alongside Dijkstra's algorithm for regional referral routes and the Hungarian algorithm for multi-resource bed matching.\n\n🔒 Non-Preemptible Critical Occupancy Locks:\nWhat happens if a specialty hospital’s ICU beds are 100% full of critical patients? You can’t kick out a critical ICU patient. The AI engine now detects this \"critical lock\" and automatically performs a temporary emergency holding assignment at a nearby facility to avoid waiting-room casualties.\n\n🛏️ Bed Stratification & Disease-Specific Recovery Timelines:\nBeds are now split into dedicated ICU vs. General Ward pools. Different conditions now have customized recovery thresholds — so a severe respiratory patient stays in ICU until SpO₂ stabilizes, while a trauma patient follows a different step-down timeline before being automatically shifted to a General Ward bed.\n\n💊 Automatic Bed Releases & On-Call Doctor Rosters:\nWhen a patient is discharged, the system frees their bed in real time (marked with a green status badge) and immediately auto-assigns the freed bed to the top waiting candidate. Plus, each hospital now tracks on-call doctor availability for Pulmonologists, Cardiologists, and Trauma Surgeons.\n\n🎨 Accessibility & High-Contrast Overhaul:\nCleaned up the UI contrast across system alerts, simulation controls, and status badges so clinical operators can read everything at a glance during high-stress simulation runs.\n\nAll 8 Java test suites passed with 100% success, and the full codebase is pushed to GitHub!\n\nNext up: Phase 4 — End-to-end API integration connecting the Next.js frontend to the Java backend endpoints.",
+    "image": "https://raw.githubusercontent.com/PG300604/portfolio-data/main/uploads/Screenshot_1785739725664.png",
+    "link": " https://github.com/PG300604/TriageNet.git"
+  },
+  {
     "id": "1",
     "title": "Building TriageNet — When Algorithms Meet Healthcare",
     "date": "2026-08-02",
