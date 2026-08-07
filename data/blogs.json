@@ -1,5 +1,13 @@
 [
   {
+    "id": "1786086066648",
+    "title": "Phase 5 and Phase 6 Update on TriageNet",
+    "date": "2026-08-07",
+    "content": "✅ Phase 5 — ML Research & Multi-Dataset Benchmarking (Complete)\n 4-dataset Kaggle benchmarking across 4,000+ patient records\n 5 ML algorithm comparison (LogReg, RF, GBT, MLP, KNN)\n Cross-dataset transfer validation (98.88% emergency recall)\n Strengths/weaknesses analysis and model selection report\n Production model weight export and validation\n✅ Phase 6 — State-Wide Scaling Architecture & Planning (Complete)\n Jharkhand state-wide deployment architecture design\n Self-hosted OpenRouteService integration plan\n 6-role RBAC access control design\n Free-tier deployment strategy (Vercel + Render.com)\n Phase-wise implementation roadmap (18-week plan)",
+    "image": "https://raw.githubusercontent.com/PG300604/portfolio-data/main/uploads/Screenshot_1786086318780.png",
+    "link": "https://github.com/PG300604/TriageNet.git"
+  },
+  {
     "id": "1785826535104",
     "title": "Engineering Autonomous AI Supply & Financial Telemetry Agents for Next-Gen Regional Healthcare",
     "date": "2026-08-04",
